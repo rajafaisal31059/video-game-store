@@ -39,5 +39,10 @@
   "main": "yes",
   "repository": "https://github.com/rajafaisal31059/video-game-store",
   "author": "ues",
-  "license": "yes"
+  "license": "yes",
+  "devDependencies": {
+    "@types/react": "^18.2.69",
+    "@types/react-dom": "^18.2.22",
+    "typescript": "^5.4.3"
+  }
 }
